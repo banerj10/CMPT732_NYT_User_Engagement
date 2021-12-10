@@ -4,7 +4,7 @@ This project was done for SFU's CMPT 732 (Big Data I) course, with the goal of a
 
 [The visualizations can be seen here](https://dataknyts-nyt.herokuapp.com/).
 
-Notes on how to run the code can be found in RUNNING.md, and a more detailed overview of the porject can be found in the project report (under Documents).
+Notes on how to run the code can be found in RUNNING.md, and a more detailed overview can be found in the project report (under Documents).
 
 ## Structure
 
