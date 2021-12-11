@@ -4,8 +4,8 @@ import os
 import pandas as pd
 import io
 
-access_id = "AKIA33ABH36IQH55OI4E"
-access_key = "bsRrVlTlJAT37os5PSjUmOj/VSgqntypNVCR8Uoa"
+access_id = ""#ADD YOUR OWN ACCESS KEY
+access_key = ""#ADD YOUR OWN SECRET KEY
 
 s3_client =boto3.client('s3')
 s3_bucket_name='dataknyts-nyt-dump'

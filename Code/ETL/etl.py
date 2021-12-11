@@ -5,8 +5,8 @@ from pyspark.sql import SparkSession, Row, functions, types
 from pyspark.sql.types import IntegerType
 from pyspark.sql.functions import count,split
 
-access_id = "AKIA33ABH36IQH55OI4E"
-access_key = "bsRrVlTlJAT37os5PSjUmOj/VSgqntypNVCR8Uoa"
+access_id = ""#ADD YOUR OWN ACCESS KEY
+access_key = ""#ADD YOUR OWN SECRET KEY
 
 conf = SparkConf()
 conf.set('spark.jars.packages', 'org.apache.hadoop:hadoop-aws:3.2.0')
