@@ -13,13 +13,11 @@ Notes on how to run the code can be found in RUNNING.md, and a more detailed ove
 |-- Code
     |--Data Collection
         |--<SCRIPT NAMES>
-        |--requirements.txt
     |--ETL
         |--<SCRIPT NAMES>
-        |--requirements.txt
     |--Visualization
         |--<SCRIPT NAMES>
-        |--requirements.txt
+    |--requirements.txt
 |-- Documents
     |-- Project Proposal
     |-- Project Report
