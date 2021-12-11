@@ -1,6 +1,7 @@
 ## Demo
 
-The live demo for this project can been viewed here: https://dataknyts-nyt.herokuapp.com/
+The live demo for this project can been viewed here: 
+<a target="_blank" href="https://dataknyts-nyt.herokuapp.com/" >dataknyts-nyt.herokuapp.com</a>
 
 ## Overview
 
