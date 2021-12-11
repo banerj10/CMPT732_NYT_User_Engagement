@@ -12,11 +12,22 @@ Notes on how to run the code can be found in RUNNING.md, and a more detailed ove
 .
 |-- Code
     |--Data Collection
-        |--<SCRIPT NAMES>
+        |-- Sample_Data
+            |-- d579c8_comments_2020_7.json
+            |-- dc8751_articles_2020_7.json
+        |-- dumper.py
+        |-- keys.txt
+        |-- scraper.py
     |--ETL
-        |--<SCRIPT NAMES>
+        |-- etl.py
+        |-- location_csv.csv
     |--Visualization
-        |--<SCRIPT NAMES>
+        |-- app.py
+        |-- Assets
+            |-- app.css
+            |-- favicon.ico
+        |-- s3connector.py
+        |-- visualizations.py
     |--requirements.txt
 |-- Documents
     |-- Project Proposal
