@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+body{
+    margin : 0px;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+.graph {
+    margin : auto;
+    width : 70%;
+    padding : 20px;
+}
+
+.graph_div {
+    background-color: #111111;
+    padding : 30px;
+    border-radius: 20px;
+}
+
+.graph_chart_type {
+    text-align: left;
+    font-weight: 400;
+    background-color: #111111;
+    margin : 0px;
+    text-transform : uppercase;
+    text-align: left;
+    padding-bottom: 12px;
+}
+
+.graph_header {
+    text-align: left;
+    font-weight: 800;
+    color: #ecedf2;
+    background-color: #111111;
+    margin : 0px;
+    text-transform : none;
+    text-align: left;
+}
+
+.graph_para {
+    color: #ecedf2;
+    font-weight: 400;
+    background-color: #111111;
+    margin : 0px;
+}
+
+.mid_nav{
+    height: 24px;
+    top: 24px;
+
+    font-family: Readex Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 24px;
+    text-align: center;
+    padding-top: 20px;
+    /* identical to box height, or 133% */
+
+
+    color: #242424;
+}
+.left_nav{
+    top: 24px;
+    text-align: center;
+    padding-top: 20px;
+    margin: auto;    
+    display: block;
+}
+
+.right_nav{
+    top: 24px;
+    top: 24px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.intro_div{
+    background-color: #242424;
+    padding : 30px;
+    border-radius: 20px;
+}
+
+.intro_chart_type {
+    text-align: left;
+    font-weight: 400;
+    background-color: #242424;
+    margin : 0px;
+    text-transform : uppercase;
+    text-align: left;
+    padding-bottom: 12px;
+}
+
+.intro_header {
+    text-align: left;
+    font-weight: 800;
+    color: #ecedf2;
+    background-color: #242424;
+    margin : 0px;
+    text-transform : none;
+    text-align: left;
+}
+
+.intro_para {
+    color: #ecedf2;
+    font-weight: 400;
+    background-color: #242424;
+    margin : 0px;
+}
