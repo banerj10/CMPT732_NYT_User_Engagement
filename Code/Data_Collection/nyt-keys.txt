@@ -1,0 +1,2 @@
+*Note : Please remember to delete these lines and follow the format below, to add AT LEAST 10 keys.
+APPNAME - EMAILID - APPKEY - APPSECRETKEY
